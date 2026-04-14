@@ -1,0 +1,12 @@
+# Ignorar ambientes virtuais
+.venv/
+.lab-dio/
+__pycache__/
+
+# Ignorar arquivos de configuração sensíveis (SEGURANÇA)
+.env
+agents/agent04/agenttaskmanager/.env
+
+# Ignorar bancos de dados locais do ADK
+*.db
+.adk/
