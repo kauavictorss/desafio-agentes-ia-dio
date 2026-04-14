@@ -1,6 +1,6 @@
 # Desafio Agentes de IA - Organizador de Tarefas Trello 📋
 
-Este projeto faz parte do desafio prático do bootcamp **CI&T - Do Prompt ao Agente** da **Digital Innovation One (DIO)**, no módulo **Criando Agentes de IA**.
+Este projeto faz parte do desafio prático do bootcamp **CI&T - Do Prompt ao Agente** da **Digital Innovation One (DIO)**.
 
 O objetivo é desenvolver um agente inteligente capaz de interagir com APIs externas (Trello) para automatizar a organização de tarefas diárias, utilizando o framework **Google ADK** e o modelo **Gemini 2.5 Flash**.
 
@@ -56,7 +56,6 @@ TRELLO_API_KEY=sua_chave_trello
 TRELLO_API_SECRET=seu_secret_trello
 TRELLO_TOKEN=seu_token_trello
 ```
-> **Dica:** Obtenha suas chaves do Trello em [trello.com/app-key](https://trello.com/app-key).
 
 ### 4. Preparação do Trello
 Para que o agente funcione corretamente, crie no seu Trello:
@@ -64,7 +63,6 @@ Para que o agente funcione corretamente, crie no seu Trello:
 - Três listas: **A FAZER**, **EM ANDAMENTO** e **CONCLUÍDO**.
 
 ### 5. Execução do Chat
-Para interagir com o agente via interface web:
 ```bash
 # Entre na pasta do agente
 cd agents/agent04/agenttaskmanager
@@ -83,4 +81,22 @@ Este projeto demonstra a aplicação prática de:
 
 ---
 
-Desenvolvido por você como parte da jornada de aprendizado na **DIO** em parceria com a **CI&T**.
+## ✍️ Autor
+
+<div align="center">
+  <img src="https://github.com/kauavictorss.png" width="150px" style="border-radius: 50%;" alt="Kauã Victor"/>
+  <br><br>
+  <strong>Kauã Victor Silva dos Santos</strong>
+  <br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-kauavictorss-181717?style=for-the-badge&logo=github)](https://github.com/kauavictorss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Victor_S._Santos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaua-victor-santos/)
+</div>
+
+---
+
+## 🎓 Certificação DIO
+
+Projeto desenvolvido como parte do Bootcamp **CI&T - Do Prompt ao Agente** da **[Digital Innovation One (DIO)](https://www.dio.me)**, com foco em desenvolvimento de Agentes de IA e integração com serviços de produtividade.
+
+[![Certificado DIO](https://img.shields.io/badge/Certificado-DIO-E67E22?style=for-the-badge&logo=douban)](https://www.dio.me/certificate/01RAII5X/share)
