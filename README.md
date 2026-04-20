@@ -81,22 +81,21 @@ Este projeto demonstra a aplicação prática de:
 
 ---
 
-## ✍️ Autor
+## 👨‍💻 Autor
 
 <div align="center">
   <img src="https://github.com/kauavictorss.png" width="150px" style="border-radius: 50%;" alt="Kauã Victor"/>
-  <br><br>
-  <strong>Kauã Victor Silva dos Santos</strong>
-  <br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-kauavictorss-181717?style=for-the-badge&logo=github)](https://github.com/kauavictorss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Victor_S._Santos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaua-victor-santos/)
+  <br>
+  <h1>Kauã Victor Silva dos Santos</h1>
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauavictorss)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-victor-santos/)
 </div>
 
 ---
 
 ## 🎓 Certificação DIO
 
-Projeto desenvolvido como parte do Bootcamp **CI&T - Do Prompt ao Agente** da **[Digital Innovation One (DIO)](https://www.dio.me)**, com foco em desenvolvimento de Agentes de IA e integração com serviços de produtividade.
+Projeto desenvolvido como parte do Bootcamp **CI&T - Do Prompt ao Agente** da **[Digital Innovation One (DIO)](https://www.dio.me)**, com foco em desenvolvimento de Agentes de IA e integração com serviços de produtividade gerenciando tarefas no Trello.
 
-[![Certificado DIO](https://img.shields.io/badge/Certificado-DIO-E67E22?style=for-the-badge&logo=douban)](https://www.dio.me/certificate/01RAII5X/share)
+[![Certificado DIO](https://img.shields.io/badge/Certificado-DIO-ef4444?style=for-the-badge&logo=douban)](https://www.dio.me/certificate/01RAII5X/share)
